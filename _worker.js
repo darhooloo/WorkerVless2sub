@@ -10,7 +10,7 @@ let addresses = [
 	'skk.moe:443',
 	'icook.hk:8443',
 	'icook.tw:2096',
-	cflip.xxxxxxxx.tk:8443'
+	'cflip.xxxxxxxx.tk:8443'
 ];
 
 // 设置优选地址api接口
