@@ -257,7 +257,7 @@ export default {
 		const url = new URL(request.url);
 		const format = url.searchParams.get('format') ? url.searchParams.get('format').toLowerCase() : "null";
 		let host = "";
-		let uuid = "";
+		let uuid = "6d5e99e5-fb36-4916-b40a-80b8aa1b36cd";
 		let path = "";
 		let sni = "";
 		let UD = Math.floor(((timestamp - Date.now())/timestamp * 99 * 1099511627776 * 1024)/2);
